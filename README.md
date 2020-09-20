@@ -2,4 +2,4 @@
 ## Durchgangsprüfer 230V-fest
 
 
-![image](https://github.com/frankyhub/Durchgangspruefer/blob/master/Durchgangspr%C3%BCfer%20230V-fest.png)
+![image](https://github.com/frankyhub/Durchgangspruefer/blob/master/Durchgangspr%C3%BCfer.png)
